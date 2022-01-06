@@ -111,6 +111,6 @@ _Tabla 5.4 Cálculo de error voltaje y corriente circuito original y circuito eq
   * 
 ## 6. Conclusiones
   * Para concluir, la aplicación del método de Thevenin es muy importante y eficiente, ya que permite reducir circuitos resistivos que pueden llegar a ser muy complejos en circuitos mucho más simples que solo constan de una resistencia, de una fuente de voltaje y del componente a analizar; al ser un circuito más sencillo, el análisis del elemento que se extrajo del circuito original se vuelve más eficiente ya que los cálculos a realizarse son más cortos. Además, pasando a la parte práctica, resulta más sencillo y económico elaborar circuitos resistivos equivalentes que cumplan con las mismas funciones del circuito original.
-  * 
+  * Para llevar a cabo la aplicación del método de Thévenin se debe tener conocimiento previos con respecto a fundamentos de circuitos, y de conceptos como: voltaje, corriente, resistencia, técnicas de análisis de circuitos, entre otros. Además, saber reconocer y analizar circuitos cuando sus componentes están en serie o están en paralelo, puesto que sin tener estos conocimiento no se puede llevar a cabo el cálculos de voltaje equivalente y resistencia equivalente de Thévenin.
 ## 7. Bibliografía
  * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
