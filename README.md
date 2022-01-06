@@ -15,9 +15,9 @@
   * Justificar el desarrollo de la práctica a través de un archivo audiovisual para respaldar los datos calculados analíticamente y los datos simulados. 
 ## 2. Marco Teórico
   ## <p align=center> Materiales
-  
+  ![Materiales LAB 5](https://user-images.githubusercontent.com/93829976/148461204-d8f510dc-1ea7-47a3-89f7-57532b4d379c.jpeg)
   ## <p align=center> Teorema de Thevenin
- 
+ ![Teorema de Thévenin](https://user-images.githubusercontent.com/93829976/148461212-ed0eda6e-6be0-4d80-aca1-8e2790e729cd.jpeg)
 ## 3. Explicación del Procedimiento
    ## Materiales
  * 2 Fuente de voltaje CD
