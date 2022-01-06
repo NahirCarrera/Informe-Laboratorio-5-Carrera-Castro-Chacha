@@ -69,11 +69,18 @@ _Ilustración 6.Implementación del circuito equivalente de Thevenin_
  _Ilustración 8.Medición de corriente en el circuito equivalente de Thevenin_
    
     ## Cálculos de Respaldo
-  ### 1. Cálculo de la Resistencia equivalente de Thevenin
-
-  ### 2. Cálculo de el voltaje de Thevenin
-
-  ### 3. Circuito Equivalente de Thevenin
+  ### 1. Cálculo del voltaje de Thévenin
+  ![image](https://user-images.githubusercontent.com/93829962/148465102-2e26f01e-5a42-45b1-9b6d-fe0ceb08c222.png)
+  
+  ### 2. Cálculo de la Resistencia equivalente de Thévenin
+  ![image](https://user-images.githubusercontent.com/93829962/148465053-5dec9dc9-5ade-40fc-8dc6-4eff70756c45.png)
+    
+  ### 3. Cálculo del voltaje y corriente de R5 en el circuito original
+  ![image](https://user-images.githubusercontent.com/93829962/148465289-4619e408-5161-4fda-b743-06b08dcd669d.png)
+  ![image](https://user-images.githubusercontent.com/93829962/148465334-e79de58e-05dc-4419-a4a6-bae6122213ff.png)
+  
+  ### 4. Cálculo del voltaje y corriente de R5 en el circuito equivalente 
+  ![image](https://user-images.githubusercontent.com/93829962/148465379-b72b8715-7d40-469a-bf6f-3c63dd8b24b0.png)
 
 ## 4. Respuesta a Interrogantes y cálculo de error
 _Tabla 5.1 Valores del circuito equivalente de Thevenin_
