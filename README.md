@@ -67,6 +67,7 @@ _Ilustración 6.Implementación del circuito equivalente de Thevenin_
 ![image](https://user-images.githubusercontent.com/93786746/148317980-895947cc-cdc2-4e17-a243-6f8dd8092da3.png)
 
  _Ilustración 8.Medición de corriente en el circuito equivalente de Thevenin_
+   
     ## Cálculos de Respaldo
   ### 1. Cálculo de la Resistencia equivalente de Thevenin
 
