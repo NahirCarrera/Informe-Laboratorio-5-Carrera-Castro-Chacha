@@ -85,17 +85,21 @@ _Ilustración 6.Implementación del circuito equivalente de Thevenin_
 ## 4. Respuesta a Interrogantes y cálculo de error
 _Tabla 5.1 Valores del circuito equivalente de Thevenin_
     
-
+![image](https://user-images.githubusercontent.com/93786746/148465594-a4024b36-35d3-4ec8-94cd-ebed5dbade37.png)
 
 _Tabla 5.2 Comprobación del teorema de Thevenin_
     
-
-
-_Tabla 4.3 Cálculo de error resistencia de Thevenin resultados Analíticos - Simulados_
+![image](https://user-images.githubusercontent.com/93786746/148465609-75aba92f-d72a-4f36-9ed2-42dbae4f7be7.png)
     
 
+_Tabla 4.3 Cálculo de error voltaje y resistencia de Thevenin resultados Analíticos - Simulados_
+    
+![image](https://user-images.githubusercontent.com/93786746/148465656-79cedf58-b7bc-4b10-8b5f-e2f7a2545c69.png)
 
-_Tabla 4.4 Cálculo de error voltaje de Thevenin resultados Analíticos - Simulados_
+
+_Tabla 4.4 Cálculo de error voltaje y corriente circuito original y circuito equivalente de Thevenin resultados Analíticos - Simulados_
+    
+![image](https://user-images.githubusercontent.com/93786746/148465729-975694c8-180d-4da3-8ae1-6dc7bf4ec86e.png)
     
 
 
